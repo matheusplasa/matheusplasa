@@ -1,6 +1,6 @@
 # Olá, sou o Matheus Plasa! 👋
 
-🚀 Futuro Engenheiro de Software apaixonado por transformar ideias em soluções que impactam o mundo. Atualmente cursando **Engenharia de Software na Estácio**, estou imerso no universo do desenvolvimento FullStack, construindo uma base sólida para a minha carreira.
+🚀 Futuro Engenheiro de Software apaixonado por transformar ideias em soluções que impactam o mundo. Atualmente cursando **Análise e Desenvolvimento de Sistemas na Estácio**, estou imerso no universo do desenvolvimento FullStack, construindo uma base sólida para a minha carreira.
 
 ---
 
