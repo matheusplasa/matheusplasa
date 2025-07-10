@@ -1,23 +1,23 @@
 # Olá, sou o Matheus Plasa! 👋
 
-🚀 FullStack Dev Jr. apaixonado por transformar ideias em soluções que impactam o mundo. Atualmente cursando **Análise e Desenvolvimento de Sistemas na Estácio**, estou imerso no universo do desenvolvimento FullStack, construindo uma base sólida para a minha carreira.
+🚀 FullStack Dev Jr. apaixonado por transformar ideias em soluções que impactam o mundo. Atualmente cursando **Ciências da Computação**, estou imerso no universo do desenvolvimento FullStack, construindo uma base sólida para a minha carreira.
 
 ---
 
 ### Minhas Paixões Tecnológicas:
 
 -   **Front-end:** Construo interfaces de usuário intuitivas e responsivas com **JavaScript, HTML, CSS** e **React**.
--   **Back-end:** Desenvolvo a lógica de servidor e APIs usando **Python** (com familiaridade em Flask e Django) e manipulação de bancos de dados **SQL** (MySQL, PostgreSQL).
+-   **Back-end:** Desenvolvo a lógica de servidor e APIs usando **Python** (com familiaridade em Flask e Django) e manipulação de bancos de dados **SQL** (MySQL, PostgreSQL), PHP, node.Js e Golang.
 -   **Cloud:** Explorando os fundamentos da nuvem com **AWS**.
 
 ---
 
 ### Habilidades em Destaque:
 
--   **Linguagens:** JavaScript, Python, HTML, CSS, TypeScript.
--   **Frameworks/Bibliotecas:** React, TailWindCSS.
+-   **Linguagens:** JavaScript, Python, HTML, CSS, TypeScript, PHP, Golang e Java.
+-   **Frameworks/Bibliotecas:** React, TailWindCSS, Laravel e Springboot.
 -   **Bancos de Dados:** SQL, MySQL, PostgreSQL.
--   **Ferramentas:** Git, GitHub, VS Code.
+-   **Ferramentas:** Git, GitHub, VS Code, Docker.
 -   **Metodologias:** Scrum, Metodologias Ágeis
 -   **Soft Skills:** Resolução de Problemas, Proatividade, Agilidade, Colaboração, Comunicação Intercultural, Negociação, Aprendizado Contínuo, Visão Estratégica.
 
