@@ -1,6 +1,6 @@
 # Olá, sou o Matheus Plasa! 👋
 
-🚀 FullStack Dev Jr. apaixonado por transformar ideias em soluções que impactam o mundo. Atualmente cursando **Ciências da Computação**, estou imerso no universo do desenvolvimento FullStack, construindo uma base sólida para a minha carreira.
+🚀 FullStack Dev Jr. apaixonado por transformar ideias em soluções que impactam o mundo. Atualmente cursando **Engenharia de Software**, estou imerso no universo do desenvolvimento FullStack, construindo uma base sólida para a minha carreira.
 
 ---
 
